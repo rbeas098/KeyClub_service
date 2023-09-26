@@ -1,0 +1,23 @@
+{
+  "name": "keyclub",
+  "version": "1.0.0",
+  "description": "raquels cool keyclub service",
+  "main": "src/index.js",
+  "scripts": {
+    "server": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbeas098/KeyClub_service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbeas098/KeyClub_service/issues"
+  },
+  "homepage": "https://github.com/rbeas098/KeyClub_service#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
